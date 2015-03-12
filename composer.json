@@ -1,0 +1,17 @@
+{
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.18"
+    },
+    "authors": [
+        {
+            "name": "aude",
+            "email": "aude.wiki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Placeholder\\": "src/"
+        }
+    }
+}
